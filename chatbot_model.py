@@ -21,7 +21,7 @@ def create_chatbot():
         "You're welcome.",
         "What is your name?",
         "I am a chatbot.",
-        "Tell me a joke.",
+        "Tell me a joke.", 
         "Why did the scarecrow win an award? Because he was outstanding in his field!"
         "Do you have money?"
     ]
